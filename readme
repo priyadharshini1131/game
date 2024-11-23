@@ -1,0 +1,25 @@
+# Memory Game
+
+A simple memory game where the player needs to match pairs of cards. The game board consists of shuffled cards, and the player flips two cards at a time to find matching pairs. Once all pairs are found, the game is won.
+
+## How to Play
+
+1. Click on a card to flip it.
+2. Try to find the matching card.
+3. If the two cards match, they remain face-up.
+4. If the two cards do not match, they will flip back after a short delay.
+5. The game ends when all pairs have been found.
+
+## How to Play
+
+1. Clone the repository or download the files.
+2. Open the `index.html` file in your browser to play the game.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript (DOM Manipulation)
+
+
+
